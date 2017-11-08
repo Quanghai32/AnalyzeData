@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AGV_ANALYZE_SQLITE
+namespace AGV_ANALYZE_LIST
 {
     static class Program
     {

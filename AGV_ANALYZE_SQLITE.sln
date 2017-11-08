@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGV_ANALYZE_SQLITE", "AGV_ANALYZE_SQLITE\AGV_ANALYZE_SQLITE.csproj", "{0C1C8C1B-AF02-43E0-8848-FA74392AC8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugForm", "DebugForm\DebugForm.csproj", "{1284602C-7A83-4D58-9D10-8F2B94E82A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGV_ANALYZE_LIST", "AGV_ANALYZE_LIST\AGV_ANALYZE_LIST.csproj", "{214060E0-BB1F-439E-891A-CCA082D8EEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLite", "MySQLite\MySQLite.csproj", "{47C08227-40D3-4E45-BA52-F1087DF46384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{0C1C8C1B-AF02-43E0-8848-FA74392AC8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C1C8C1B-AF02-43E0-8848-FA74392AC8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C1C8C1B-AF02-43E0-8848-FA74392AC8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1284602C-7A83-4D58-9D10-8F2B94E82A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1284602C-7A83-4D58-9D10-8F2B94E82A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1284602C-7A83-4D58-9D10-8F2B94E82A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1284602C-7A83-4D58-9D10-8F2B94E82A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214060E0-BB1F-439E-891A-CCA082D8EEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214060E0-BB1F-439E-891A-CCA082D8EEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214060E0-BB1F-439E-891A-CCA082D8EEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214060E0-BB1F-439E-891A-CCA082D8EEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C08227-40D3-4E45-BA52-F1087DF46384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C08227-40D3-4E45-BA52-F1087DF46384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C08227-40D3-4E45-BA52-F1087DF46384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C08227-40D3-4E45-BA52-F1087DF46384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
